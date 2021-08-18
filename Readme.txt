@@ -1,1 +1,1 @@
-入口文件是index.php
+注意：入口文件是index.php
